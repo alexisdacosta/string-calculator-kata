@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 import dev.alexisdacosta.services.StringCalculator;
 
 /**
- * Unit test for simple App.
+ * Unit test to test this kata.
  */
 public class AppTest 
 {
